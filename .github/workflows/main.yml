@@ -1,0 +1,34 @@
+name: Serverless CI
+
+on:
+  push:
+    tags:
+      - '*'
+  pull_request:
+    tags:
+      - '*'
+
+jobs:
+  deploy:
+    name: deploy serverless
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js 16.x
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16.x
+          cache: 'npm'
+      - name: install serverless
+        run: npm install -g serverless
+      - run: npm install -g yarn
+      - run: yarn install --frozen-lockfile
+      - run: yarn build
+      - name: deploy serverless
+        run: sls deploy --debug
+        env: # 环境变量
+          STAGE: dev #您的部署环境
+          SERVERLESS_PLATFORM_VENDOR: tencent #serverless 境外默认为 aws，配置为腾讯
+          TENCENT_SECRET_ID: ${{ secrets.TENCENT_SECRET_ID }} #您的腾讯云账号 sercret ID
+          TENCENT_SECRET_KEY: ${{ secrets.TENCENT_SECRET_KEY }} #您的腾讯云账号 sercret key
+ 

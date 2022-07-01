@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rainballs]]></title>
+        <description><![CDATA[Rainballs]]></description>
+        <link>https://www.rainballs.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 29 May 2022 08:04:17 GMT</lastBuildDate>
+        <atom:link href="https://www.rainballs.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BB平台提交失败问题纪实]]></title>
+            <description><![CDATA[最近突然BB平台出现了提交失败的现象，在24小时的尝试和对其进行分析之后，我找到了临时解决方案。]]></description>
+            <link>https://www.rainballs.com/blog/bb-error</link>
+            <guid isPermaLink="true">https://www.rainballs.com/blog/bb-error</guid>
+            <pubDate>Fri, 19 Jun 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[c++仿真计算环境配置]]></title>
+            <description><![CDATA[大学生涯里，有件事最让人头疼，那就是准备做实验的时候发现没有相应的软件环境。本文将为你带来在计算模拟实验中，如何搭建c++和mfc的软件环境。]]></description>
+            <link>https://www.rainballs.com/blog/cs-experiment-520</link>
+            <guid isPermaLink="true">https://www.rainballs.com/blog/cs-experiment-520</guid>
+            <pubDate>Wed, 20 May 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Love - Imagine]]></title>
+            <description><![CDATA[脸红的思春期主唱 安智煐 在平昌冬奥会的开幕式上，凭借她独特的嗓音，引起了我的关注...]]></description>
+            <link>https://www.rainballs.com/blog/imagine-my-love-song</link>
+            <guid isPermaLink="true">https://www.rainballs.com/blog/imagine-my-love-song</guid>
+            <pubDate>Wed, 28 Oct 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[米6谷歌相机]]></title>
+            <description><![CDATA[复活自己的旧手机？小米6这款综合素质不错的手机，有个让人特烦的短板，就是拍照性能太差了。我们将利用谷歌相机为小米6补上短板......]]></description>
+            <link>https://www.rainballs.com/blog/mi6-gcam</link>
+            <guid isPermaLink="true">https://www.rainballs.com/blog/mi6-gcam</guid>
+            <pubDate>Fri, 03 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[npm pngquant failed——新blog爬坑记录]]></title>
+            <description><![CDATA[最近我打算将近期积累的angular经验运用在blog上，重构之前那个难以维护的blog，于是我的爬坑之旅再次来临...]]></description>
+            <link>https://www.rainballs.com/blog/my-new-blog</link>
+            <guid isPermaLink="true">https://www.rainballs.com/blog/my-new-blog</guid>
+            <pubDate>Sun, 14 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[成型金属学汇总]]></title>
+            <description><![CDATA[汇总的一部分东北大学材料成型金属学资料]]></description>
+            <link>https://www.rainballs.com/blog/physical-metallurgy</link>
+            <guid isPermaLink="true">https://www.rainballs.com/blog/physical-metallurgy</guid>
+            <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[古镇云月]]></title>
+            <description><![CDATA[有微风，有竹林，有溪流，还有蜻蜓。你可以在白沫江畔等待爱情，也可以在溪水泉边手牵手望着天。陪伴月的云彩是古桥边的云彩，陪伴你的夏天是平乐古镇的夏天...]]></description>
+            <link>https://www.rainballs.com/blog/qiong-lai-life</link>
+            <guid isPermaLink="true">https://www.rainballs.com/blog/qiong-lai-life</guid>
+            <pubDate>Sat, 20 Jun 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[来看星星吧]]></title>
+            <description><![CDATA[今年的特别情况，让我在小镇待了很久。每晚的例行散步时，抬头看星空，可以看很远很久...]]></description>
+            <link>https://www.rainballs.com/blog/see-stars-in-pl</link>
+            <guid isPermaLink="true">https://www.rainballs.com/blog/see-stars-in-pl</guid>
+            <pubDate>Mon, 26 Oct 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[怎么高效学习考研英语？]]></title>
+            <description><![CDATA[一则iPad平板上高效学习考研英语真题的小技巧，在考研的最后关头，开足马力继续努力吧。]]></description>
+            <link>https://www.rainballs.com/blog/stu-eng</link>
+            <guid isPermaLink="true">https://www.rainballs.com/blog/stu-eng</guid>
+            <pubDate>Sun, 15 Nov 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[追剧-环形物语]]></title>
+            <description><![CDATA[这部剧被称为今年最被严重低估的科幻剧，有黑镜的感觉。]]></description>
+            <link>https://www.rainballs.com/blog/tales-from-the-loop</link>
+            <guid isPermaLink="true">https://www.rainballs.com/blog/tales-from-the-loop</guid>
+            <pubDate>Thu, 05 Nov 2020 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[万能空间站]]></title>
+            <description><![CDATA[当你想要设立一个常驻基地用于存储自己的飞船，或是想要到一个可以买到所有飞船和飞船部件的地方，那么你......]]></description>
+            <link>https://www.rainballs.com/blog/wan-neng-kong-jian-zhan</link>
+            <guid isPermaLink="true">https://www.rainballs.com/blog/wan-neng-kong-jian-zhan</guid>
+            <pubDate>Fri, 03 Jan 2020 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
